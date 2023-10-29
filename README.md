@@ -9,3 +9,8 @@ Halo, ini adalah commit pertama dari okzapradhana.
 2. Do that
 3. Aftet that, do those things
 4. Done, this is the final step.
+
+## Screenshots
+1. image
+2. image
+3. image
