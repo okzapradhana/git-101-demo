@@ -7,3 +7,4 @@ Halo, ini adalah commit pertama dari okzapradhana.
 1. Do this
 2. Do that
 3. Aftet that, do those things
+4. Final Stage
